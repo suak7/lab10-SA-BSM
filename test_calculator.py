@@ -1,3 +1,7 @@
+# https://github.com/suak7/lab10-SA-BSM
+# Partner 1:
+# Partner 2:
+
 import unittest
 from calculator import *
 
