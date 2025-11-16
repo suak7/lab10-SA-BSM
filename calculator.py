@@ -1,6 +1,6 @@
 # https://github.com/suak7/lab10-SA-BSM
-# Partner 1:
-# Partner 2:
+# Partner 1: Sumeyya Aktas
+# Partner 2: Bryan Sales-Mendez
 
 """
 calculator.py
@@ -11,7 +11,6 @@ One function per operation, in order.
 
 import math
 
-# First example
 def add(a, b):
     return a + b
 
